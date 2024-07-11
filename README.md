@@ -54,7 +54,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 - [Krypton][krypton] - A mod to optimize the Minecraft networking stack.  
   - Available for: fabric: 1.16.2 -> 1.21, quilt: 1.16.2 -> 1.21  
 - [LazyDFU][lazydfu] - Makes the initialization of DataFixerUpper "lazy". DataFixerUpper (or DFU for short) is the system used by Minecraft to convert old worlds to the current version you're running, in Vanilla it's initialized at startup and is slow (and eats a lot of resources). This mod delays the initialization of DFU by initializing only when needed, if you're playing only on multiplayer it'll never get initialized for example.  
-  - Available for: fabric: 1.14 -> 1.20.6, quilt: 1.14 -> 1.20.1, forge: 1.16 -> 1.19.3  
+  - Available for: fabric: 1.14 -> 1.20.6, quilt: 1.14 -> 1.20.6, forge: 1.16 -> 1.19.3  
 - [Lithium][lithium] - No-compromises game logic/server optimization mod.  
   - Available for: fabric: 1.15 -> 1.16, 1.16.2 -> 1.21, quilt: 1.15 -> 1.21  
 - [Phosphor][phosphor] - No-compromises lighting engine optimization mod. Incompatible with Starlight.  
@@ -146,7 +146,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 ### Utility
 
 - [Fabrishot][fabrishot] - Take insanely large screenshots because why not?  
-  - Available for: fabric: 1.16 -> 1.20.1, quilt: 1.16 -> 1.20.1  
+  - Available for: fabric: 1.16 -> 1.21, quilt: 1.16 -> 1.21  
 - [No Telemetry][no telemetry] - No Telemetry is a mod that allows you to disable Microsofts data tracking which has been added in the snapshot 21w38a.  
   - Available for: fabric: 1.18 -> 1.21, forge: 1.18 -> 1.21, quilt: 1.18 -> 1.21  
 - [Resolution Control][resolution control] - Allows you to set render resolutions and take large screenshots.  
